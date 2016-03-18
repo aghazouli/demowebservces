@@ -1,0 +1,4 @@
+com\objis\demowebservice\GestionDemandeFormationImpl.class
+com\objis\demowebservice\domaine\DemandeFormation.class
+com\objis\demowebservice\GestionDemandeFormation.class
+com\objis\demowebservice\client\Client.class
